@@ -160,6 +160,9 @@ header{
     background-repeat: no-repeat;
     vertical-align: middle;
   }
+  .header-support{
+    justify-content: flex-end;
+  }
   .header-support-btn{
     background-color: #BD8A5A;
     border-radius: 5px;
