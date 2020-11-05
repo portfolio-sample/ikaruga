@@ -370,7 +370,7 @@ header{
 }
 .contents-btn{
   display: inline-block;
-  border: solid;
+  border: solid #666666;
   padding: 10px 40px;
   border-radius: 5px;
   color: #333333;
